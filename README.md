@@ -1,7 +1,7 @@
 # Urban-Block-Generator
 Grasshopper script for adaptive generation of shop house units with balconies within urban blocks.
 
-<img scr='sample-preview.png'> 
+![](Urban-Block-Generator/sample-preview.png)
 
 Generative rules:
 
@@ -13,3 +13,8 @@ Generative rules:
 - The internal shops are generated if the parcel is very large, i.e. the site coverage is yet to be maximized. If the parcel size is small, the internal shops are not created.
 
 The grasshoper script has the following plugin dependencies:
+
+- Pufferfish, Version=2.9.0.0
+- NumericalEnvironmentForGH, Version=1.0.0.0
+- Human, Version=1.7.2.0
+
