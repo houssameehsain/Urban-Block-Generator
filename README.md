@@ -1,7 +1,8 @@
 # Urban-Block-Generator
 Grasshopper script for adaptive generation of shop house units with balconies within urban blocks.
 
-<img src="/Urban-Block-Generator/sample-preview.png" alt="Sample perspective preview of the generated urban blocks">
+<img src="/sample-preview.png" 
+     alt="Sample perspective preview of the generated urban blocks">
 
 Generative rules used:
 
