@@ -1,9 +1,9 @@
 # Urban-Block-Generator
 Grasshopper script for adaptive generation of shop house units with balconies within urban blocks.
 
-<img scr='sample-preview.jpg'> 
+<img scr='sample-preview.png'> 
 
-Generation rules:
+Generative rules:
 
 - The script verifies if the parcel boundary is within the user determined plot size requirements. If it is out of bounds, the output will flag that the land parcel area is exceeding/under the size limit.
 - In no case does the overall building footprint exceed the site coverage percentage.
